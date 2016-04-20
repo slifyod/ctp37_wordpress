@@ -1,0 +1,9 @@
+FTP :
+	HOST: ftp.onlinux-fr.setupdns.net
+	username : ctp37Test
+	password : Poire2erioP
+	Port : 21 
+BDD:
+https://mysqladmin.webapps.net/phpmyadmin/pma/index.php?server=290&token=55728cac425604cda7c513433aaedfbe&old_usr=ctp37
+	username : ctp37
+	password : Poire2erioP

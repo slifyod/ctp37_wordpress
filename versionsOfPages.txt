@@ -1,0 +1,3 @@
+functions.php pour ajouter des emplacements de menus
+header.php pour apeller les emplacements
+Controller/ pour choisir quel emplacements apeller
